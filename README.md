@@ -4,14 +4,14 @@ This repository contains a Jupyter/Colab notebook: **`With_Opt_T_Test.ipynb`**.
 The notebook includes code and analysis related to statistical testing, optimization, and experimentation workflows.  
 
 ## 📂 Contents
-- **`With_Opt_T_Test.ipynb`** — main notebook with all code and explanations.
+- **`With_Opt_T_Test.ipynb`** — main notebook with all code for testing 15 models trained in the same Dataset
 - **README.md** — project documentation.
 
 ## 🚀 Getting Started
 
 ### Run in Google Colab
 You can open the notebook directly in **Google Colab**:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo-name/blob/main/With_Opt_T_Test.ipynb)
+https://colab.research.google.com/drive/1VwrhfX3-Oh4hTXCXwJGPv0BtGPo2ac0c?usp=sharing
 
 ### Run Locally
 1. Clone the repository:
