@@ -1,4 +1,4 @@
-# With_Opt_T_Test
+# T-Test for Models with Optimization Algorithms
 
 This repository contains a Jupyter/Colab notebook: **`With_Opt_T_Test.ipynb`**.  
 The notebook includes code and analysis related to statistical testing, optimization, and experimentation workflows.  
@@ -29,7 +29,7 @@ You can open the notebook directly in **Google Colab**:
    ```
 
 ## 📊 Features
-- Statistical testing (T-tests and optimization-based approaches).
+- Statistical testing (T-tests).
 - Data analysis workflow.
 - Colab-compatible execution.
 
